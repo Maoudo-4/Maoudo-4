@@ -32,7 +32,7 @@ compétences en administration réseau et développement au service d'infrastruc
 - Services réseau : DNS (BIND9, TSIG, DDNS, délégation de zone, AXFR), DHCP (Kea, DHCP-DDNS)
 - Analyse de trafic (Wireshark), simulation réseau (GNS3), virtualisation (VirtualBox)
 
-### 💻 Développement
+### 💻 Développement & Programmation
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
