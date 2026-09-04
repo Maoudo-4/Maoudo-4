@@ -15,24 +15,6 @@ Orienté vers la résolution de problèmes techniques et la cybersécurité, je 
 compétences en administration réseau et développement au service d'infrastructures innovantes.
 **Déterminé à devenir Analyste SOC** et à participer activement au développement numérique du Sénégal.
 
-- 🎓 En 3ème année de Licence Réseaux Informatiques (UFR SAT, UGB)
-- 🛡️ En formation active cybersécurité : Cisco Networking Academy, TryHackMe, FORCEN
-- 🗳️ Délégué de classe de la L1 à la L3
-- 🤝 Vice-président de la commission tech & innovation du club informatique de l'UGB
-- 🏛️ Coordonnateur de la commission d'organisation de l'amicale de l'UFR SAT
-- 📫 diaw.maoudo@ugb.edu.sn · [LinkedIn](https://www.linkedin.com/in/maoudo-diaw-4905682b5)
-
----
-
-### 🎓 Parcours
-
-| Période | Formation |
-|---|---|
-| 2025 – 2026 | Licence 3 Informatique – Réseaux Informatiques *(en cours)*, UFR SAT, UGB |
-| 2024 – 2025 | Licence 2 Informatique (MPI) |
-| 2023 – 2024 | Licence 1 Mathématiques Physique Informatique |
-| 2022 – 2023 | Baccalauréat Scientifique S1 — Lycée Alpha Molo Balde |
-
 ---
 
 ### 🌐 Réseaux & Sécurité
@@ -73,6 +55,27 @@ compétences en administration réseau et développement au service d'infrastruc
 - 📱 Développement d'applications mobiles avec Flutter
 - 🧪 Labs réseaux pratiques : configuration et administration (routage, DNS, DHCP)
 - 🐙 Tous mes TPs et projets de cours C/C++, organisés module par module, sont ici sur GitHub
+
+---
+
+### 💁🏾‍♂️Plus sur moi
+- 🎓 En 3ème année de Licence Réseaux Informatiques (UFR SAT, UGB)
+- 🛡️ En formation active cybersécurité : Cisco Networking Academy, TryHackMe, FORCEN
+- 🗳️ Délégué de classe de la L1 à la L3
+- 🤝 Vice-président de la commission tech & innovation du club informatique de l'UGB
+- 🏛️ Coordonnateur de la commission d'organisation de l'amicale de l'UFR SAT
+- 📫 diaw.maoudo@ugb.edu.sn · [LinkedIn](https://www.linkedin.com/in/maoudo-diaw-4905682b5)
+
+---
+
+### 🎓 Parcours
+
+| Période | Formation |
+|---|---|
+| 2025 – 2026 | Licence 3 Informatique – Réseaux Informatiques *(en cours)*, UFR SAT, UGB |
+| 2024 – 2025 | Licence 2 Informatique (MPI) |
+| 2023 – 2024 | Licence 1 Mathématiques Physique Informatique |
+| 2022 – 2023 | Baccalauréat Scientifique S1 — Lycée Alpha Molo Balde |
 
 ---
 
